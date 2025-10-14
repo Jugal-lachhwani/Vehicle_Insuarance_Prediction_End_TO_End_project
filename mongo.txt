@@ -18,3 +18,7 @@ try:
     print("Pinged your deployment. You successfully connected to MongoDB!")
 except Exception as e:
     print(e)
+
+
+set: $env:MONGODB_URL = "mongodb+srv://jugallachhwani15_db_user:Jugal@12345@cluster0.pyvcisb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+check: echo $env:MONGODB_URL
