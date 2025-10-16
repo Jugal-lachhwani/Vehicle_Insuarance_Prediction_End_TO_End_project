@@ -1,6 +1,0 @@
-Dont running code everytirm 
-Take the output from the previous saved files if no changes is there in contants.py
-Add Pydantic Code
-
-
-Replicate the Whole Project for soem else dataset
